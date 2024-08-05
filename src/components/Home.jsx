@@ -1,5 +1,3 @@
-import Container from 'react-bootstrap/Container'
-
 import HeaderPizza from "./Header";
 
 function HomePizza() {
